@@ -2,7 +2,7 @@
 layout: post
 title: "How I Got Into UET Lahore — Computer Engineering"
 date: 2024-01-15
-img: uet-post.jpg
+img: pexels-karola-g-7320375.jpg
 tags: [UET, Engineering, University, Personal]
 ---
 
@@ -16,8 +16,8 @@ Ever since I was a child, I was fascinated by computers. I remember taking apart
 
 By the time I reached my intermediate years, I knew one thing for certain — I wanted to study **Computer Engineering at UET Lahore**. Not just any university. UET. The best engineering university in Pakistan.
 
-![UET Lahore Main Gate](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UET_Lahore_Main_Gate.jpg/1280px-UET_Lahore_Main_Gate.jpg)
-*The iconic main gate of UET Lahore*
+![Students in classroom]({{site.baseurl}}/assets/img/pexels-karola-g-7320375.jpg)
+*The journey starts with a dream and a lot of hard work*
 
 ---
 
@@ -47,7 +47,7 @@ The exam hall was packed. Hundreds of students, all with the same dream, all equ
 
 The Mathematics section went well. Physics was tricky but manageable. I finished with a few minutes to spare and reviewed my answers carefully.
 
-![Students studying](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800)
+![Focused student studying]({{site.baseurl}}/assets/img/pexels-polina-tankilevitch-6929185.jpg)
 *Long hours of preparation finally paying off*
 
 ---
@@ -70,8 +70,8 @@ I read it three times to make sure I was not dreaming. Then I called my parents.
 
 Walking through the gates of UET Lahore as a student for the first time was surreal. The grand architecture, the massive campus, the energy of thousands of bright minds all gathered in one place — it was overwhelming in the best possible way.
 
-![UET Lahore Campus](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/University_of_Engineering_and_Technology%2C_Lahore.jpg/1280px-University_of_Engineering_and_Technology%2C_Lahore.jpg)
-*The beautiful UET Lahore campus*
+![University life]({{site.baseurl}}/assets/img/pexels-tima-miroshnichenko-6549344.jpg)
+*The energy of university life at UET Lahore*
 
 The Computer Engineering department welcomed us with an orientation session. I looked around at my classmates — these were the people who had also fought hard to be here. I felt a deep sense of respect for every single one of them.
 
