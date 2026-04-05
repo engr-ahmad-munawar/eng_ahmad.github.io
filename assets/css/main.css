@@ -1479,11 +1479,12 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
 /* ── SIDEBAR NAV ── */
 .sidebar-nav {
   margin: 20px 0;
-  border-top: 1px solid rgba(255,255,255,0.1);
-  border-bottom: 1px solid rgba(255,255,255,0.1);
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
   padding: 15px 0;
 }
 .sidebar-nav ul {
@@ -1493,23 +1494,24 @@ a.newer-posts:hover {
   text-align: center;
 }
 .sidebar-nav ul li {
-  margin: 6px 0;
+  margin: 4px 0;
 }
 .sidebar-nav ul li a {
-  color: #ccc;
+  color: #515151;
   text-decoration: none;
-  font-size: 14px;
-  letter-spacing: 1px;
+  font-size: 13px;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  padding: 4px 10px;
+  padding: 6px 14px;
   border-radius: 4px;
   transition: all 0.2s;
   display: inline-block;
+  font-weight: 600;
 }
 .sidebar-nav ul li a:hover,
 .sidebar-nav ul li a.active {
-  color: #fff;
-  background: rgba(255,255,255,0.1);
+  color: #263959;
+  background: #f0f0f0;
 }
 
 /* ── HOME PROFILE ── */
@@ -1519,6 +1521,7 @@ a.newer-posts:hover {
 .home-profile h1 {
   font-size: 2rem;
   margin-bottom: 16px;
+  color: #263959;
 }
 .home-profile p {
   font-size: 1rem;
@@ -1562,27 +1565,27 @@ a.newer-posts:hover {
 .home-btn {
   display: inline-block;
   padding: 10px 24px;
-  background: #333;
+  background: #263959;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
   font-size: 0.88rem;
   letter-spacing: 1px;
   transition: all 0.2s;
-  border: 2px solid #333;
+  border: 2px solid #263959;
   cursor: pointer;
 }
 .home-btn:hover {
-  background: #000;
-  border-color: #000;
+  background: #1a2640;
+  border-color: #1a2640;
   color: #fff;
 }
 .home-btn-outline {
   background: transparent;
-  color: #333;
+  color: #263959;
 }
 .home-btn-outline:hover {
-  background: #333;
+  background: #263959;
   color: #fff;
 }
 
@@ -1594,12 +1597,14 @@ a.newer-posts:hover {
 .page-content h1 {
   font-size: 2rem;
   margin-bottom: 10px;
+  color: #263959;
 }
 .page-content h2 {
   font-size: 1.3rem;
   margin: 28px 0 10px;
   border-bottom: 1px solid #eee;
   padding-bottom: 6px;
+  color: #263959;
 }
 .page-content p, .page-content li {
   font-size: 0.97rem;
@@ -1647,5 +1652,5 @@ a.newer-posts:hover {
 }
 .form-group input:focus,
 .form-group textarea:focus {
-  border-color: #333;
+  border-color: #263959;
 }
